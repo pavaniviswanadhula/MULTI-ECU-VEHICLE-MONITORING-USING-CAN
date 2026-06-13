@@ -228,10 +228,15 @@ LEFT / RIGHT / OFF
 - Multi-ECU Communication
 - Real-Time Embedded System Design
 
-## Project By
+-----
+
+## 👨‍💻 Project By
 
 Pavani Viswanadula
--B.tech-Electronics and Communication Enginnering
--Vector India Major Project
--Embedded Systems | CAN | LPC2129
+
+B.Tech – Electronics and Communication Engineering
+
+Vector India Major Project
+
+Embedded Systems | CAN | LPC2129
 
