@@ -194,7 +194,8 @@ LEFT / RIGHT / OFF
 
 ### Dashboard Display
 
-![Dashboard](Images/99C3F27B-515E-4520-BC91-4F684D4CEEA3.jpeg)
+
+IMG_0671.jpeg
 
 ### Real-Time Monitoring
 
