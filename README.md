@@ -231,7 +231,7 @@ LEFT / RIGHT / OFF
 ## Project By
 
 Pavani Viswanadula
-B.tech-Electronics and Communication Enginnering
-Vector India Major Project
-Embedded Systems | CAN | LPC2129
+-B.tech-Electronics and Communication Enginnering
+-Vector India Major Project
+-Embedded Systems | CAN | LPC2129
 
