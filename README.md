@@ -1,5 +1,6 @@
 <h1 align="center">🚗 MULTI-ECU VEHICLE MONITORING USING CAN</h1>
-## 📖 Overview
+
+## 📖 **Overview**
 
 The **Multi-ECU Vehicle Monitoring System Using CAN** is an embedded systems project developed using the **LPC2129 ARM7 Microcontroller** and the **Controller Area Network (CAN) Protocol**.
 
@@ -194,16 +195,15 @@ LEFT / RIGHT / OFF
 
 ### Dashboard Display
 
-
-IMG_0671.jpeg
+<img width="2613" height="3484" alt="IMG_0671" src="https://github.com/user-attachments/assets/b2afa677-492d-49e9-948f-1fc606788741" />
 
 ### Real-Time Monitoring
 
-![Monitoring](Images/7CEA5CDD-7A76-4790-98E6-A397A4EFACCA.jpeg)
+<img width="3024" height="4032" alt="IMG_0674" src="https://github.com/user-attachments/assets/ac96fc39-1788-414c-a822-cf90625de8cb" />
 
 ### Complete Setup
 
-![Setup](Images/BFD4C155-6CE5-409F-ACDC-032EFAE778AB.jpeg)
+<img width="3787" height="2072" alt="IMG_0673" src="https://github.com/user-attachments/assets/a3cbfcad-5d63-4387-9ecf-ea75e6e74a50" />
 
 ----
 
@@ -227,3 +227,11 @@ IMG_0671.jpeg
 - Sensor Integration
 - Multi-ECU Communication
 - Real-Time Embedded System Design
+
+## Project By
+
+Pavani Viswanadula
+B.tech-Electronics and Communication Enginnering
+Vector India Major Project
+Embedded Systems | CAN | LPC2129
+
