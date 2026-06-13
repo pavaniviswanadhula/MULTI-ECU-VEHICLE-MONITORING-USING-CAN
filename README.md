@@ -102,7 +102,11 @@ To design and develop a multi-ECU vehicle monitoring system using the CAN protoc
 - Real-Time Embedded Systems
 
 ---
+### 🔄Block Diagram
 
+<img width="1213" height="790" alt="image" src="https://github.com/user-attachments/assets/016e1e7f-1210-497e-af4e-c12f8f6aef5b" />
+
+----
 ## ⚙️ Implementation Sequence
 
 ### 1️⃣ LCD Verification
@@ -150,6 +154,7 @@ To design and develop a multi-ECU vehicle monitoring system using the CAN protoc
 
 ## 📂 Project Folder Structure
 
+```text
 Multi-ECU-Vehicle-Monitoring-Using-CAN/
 │
 ├── Main_Node/
@@ -171,26 +176,53 @@ Multi-ECU-Vehicle-Monitoring-Using-CAN/
 │ └── project_report.pdf
 │
 └── README.md
+```
+----
+
+### Output
+
+The LCD displays:
+
+🌡️ Engine Temperature : XX °C
+
+🔋 Battery Level : XX %
+
+🚦 Indicator Status :
+LEFT / RIGHT / OFF
+
+## 📸 Project Output
+
+<table>
+<tr>
+<td><img src="Images/output1.jpg" width="350"></td>
+<td><img src="Images/output2.jpg" width="350"></td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="Images/output3.jpg" width="700">
+</td>
+</tr>
+</table>
 
 ----
 
-🚀** Applications**
-Automotive Embedded Systems
-Vehicle Diagnostics
-ECU Communication Systems
-CAN-Based Industrial Automation
-Vehicle Health Monitoring
-Smart Transportation Systems
-Distributed Embedded Networks
+## 🚀 Applications
 
+- Automotive Embedded Systems
+- Vehicle Diagnostics
+- ECU Communication Systems
+- CAN-Based Industrial Automation
+- Vehicle Health Monitoring
+- Smart Transportation Systems
+- Distributed Embedded Networks
 ----
+## 🎓 Learning Outcomes
 
-🎓 **Learning Outcomes**
-Embedded C Programming
-CAN Protocol Implementation
-LPC2129 ARM7 Architecture
-ADC and GPIO Interfacing
-Interrupt Handling
-Sensor Integration
-Multi-ECU Communication
-Real-Time Embedded System Design
+- Embedded C Programming
+- CAN Protocol Implementation
+- LPC2129 ARM7 Architecture
+- ADC and GPIO Interfacing
+- Interrupt Handling
+- Sensor Integration
+- Multi-ECU Communication
+- Real-Time Embedded System Design
