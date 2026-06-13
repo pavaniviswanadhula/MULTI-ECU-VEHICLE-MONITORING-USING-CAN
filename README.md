@@ -192,17 +192,17 @@ LEFT / RIGHT / OFF
 
 ## 📸 Project Output
 
-<table>
-<tr>
-<td><img src="Images/output1.jpg" width="350"></td>
-<td><img src="Images/output2.jpg" width="350"></td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="Images/output3.jpg" width="700">
-</td>
-</tr>
-</table>
+### Dashboard Display
+
+![Dashboard](Images/99C3F27B-515E-4520-BC91-4F684D4CEEA3.jpeg)
+
+### Real-Time Monitoring
+
+![Monitoring](Images/7CEA5CDD-7A76-4790-98E6-A397A4EFACCA.jpeg)
+
+### Complete Setup
+
+![Setup](Images/BFD4C155-6CE5-409F-ACDC-032EFAE778AB.jpeg)
 
 ----
 
