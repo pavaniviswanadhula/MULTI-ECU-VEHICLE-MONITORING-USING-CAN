@@ -199,7 +199,7 @@ LEFT / RIGHT / OFF
 
 ### Real-Time Monitoring
 
-<img width="4113" height="4000" alt="IMG_0674" src="https://github.com/user-attachments/assets/ac96fc39-1788-414c-a822-cf90625de8cb" />
+<img width="3113" height="4000" alt="IMG_0674" src="https://github.com/user-attachments/assets/ac96fc39-1788-414c-a822-cf90625de8cb" />
 
 ### Complete Setup
 
