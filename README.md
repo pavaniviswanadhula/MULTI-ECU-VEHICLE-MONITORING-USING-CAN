@@ -195,15 +195,15 @@ LEFT / RIGHT / OFF
 
 ### Dashboard Display
 
-<img width="2113" height="2000" alt="IMG_0671" src="https://github.com/user-attachments/assets/b2afa677-492d-49e9-948f-1fc606788741" />
+<img width="2113" height="3000" alt="IMG_0671" src="https://github.com/user-attachments/assets/b2afa677-492d-49e9-948f-1fc606788741" />
 
 ### Real-Time Monitoring
 
-<img width="2113" height="2000" alt="IMG_0674" src="https://github.com/user-attachments/assets/ac96fc39-1788-414c-a822-cf90625de8cb" />
+<img width="2113" height="4000" alt="IMG_0674" src="https://github.com/user-attachments/assets/ac96fc39-1788-414c-a822-cf90625de8cb" />
 
 ### Complete Setup
 
-<img width="2113" height="2000" alt="IMG_0673" src="https://github.com/user-attachments/assets/a3cbfcad-5d63-4387-9ecf-ea75e6e74a50" />
+<img width="2113" height="2260" alt="IMG_0673" src="https://github.com/user-attachments/assets/a3cbfcad-5d63-4387-9ecf-ea75e6e74a50" />
 
 ----
 
