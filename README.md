@@ -76,7 +76,6 @@ To design and develop a multi-ECU vehicle monitoring system using the CAN protoc
 - Potentiometer
 - LEDs
 - Push Buttons / Switches
-- USB to UART Converter
 - CAN Bus Connections
 
 ---
@@ -86,7 +85,6 @@ To design and develop a multi-ECU vehicle monitoring system using the CAN protoc
 - Embedded C
 - Keil uVision IDE
 - Flash Magic
-- Proteus (Optional for Simulation)
 
 ---
 
@@ -100,7 +98,6 @@ To design and develop a multi-ECU vehicle monitoring system using the CAN protoc
 - External Interrupts
 - LCD Interfacing
 - DS18B20 Sensor Interfacing
-- Real-Time Embedded Systems
 
 ---
 ### 🔄Block Diagram
