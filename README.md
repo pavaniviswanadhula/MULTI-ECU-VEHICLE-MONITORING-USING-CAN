@@ -171,7 +171,6 @@ Multi-ECU-Vehicle-Monitoring-Using-CAN/
 │
 ├── Docs/
 │ ├── block_diagram.png
-│ └── project_report.pdf
 │
 └── README.md
 ```
