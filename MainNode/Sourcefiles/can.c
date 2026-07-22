@@ -1,8 +1,8 @@
-#include <LPC21xx.h>          // LPC2129 register definitions
-#include "types.h"            // User defined data types
-#include "defines.h"          // Bit manipulation macros
-#include "can_defines.h"      // CAN register bit definitions
-#include "delay.h"            // Delay functions
+#include <LPC21xx.h>         
+#include "types.h"            
+#include "defines.h"         
+#include "can_defines.h"      
+#include "delay.h"           
 
 /* Structure to store CAN Frame */
 typedef struct CAN_Frame
