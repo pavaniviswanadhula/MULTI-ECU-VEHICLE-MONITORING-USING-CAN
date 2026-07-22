@@ -62,18 +62,15 @@ void charlcd(char dat)
     // Send one character to LCD
     writelcd(dat);
 }
-
 void strlcd(char *p)
 {
     // Display characters until null character
     while(*p)
         charlcd(*p++);
 }
-
 void u32lcd(signed int n)
 {
     char a[10],i=0;
-
     // Check for negative number
     if(n<0)
     {
@@ -82,24 +79,20 @@ void u32lcd(signed int n)
         // Convert to positive
         n=-n;
     }
-
     // Extract digits one by one
     do
     {
         a[i++]=n%10+48;
         n=n/10;
     }while(n);
-
     // Display digits in correct order
     for(;i>0;i--)
         charlcd(a[i-1]);
 }
-
 void f32lcd(float f,char i)
 {
     // Get integer part
     unsigned long int n=f;
-
     // Display integer part
     u32lcd(n);
     // Display decimal point
