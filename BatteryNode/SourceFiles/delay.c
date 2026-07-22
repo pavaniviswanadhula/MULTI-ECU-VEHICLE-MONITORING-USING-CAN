@@ -1,15 +1,21 @@
 void delay_us(unsigned int tdly)
 {
-tdly*=12;
-while(tdly--);
+    // Convert microseconds into loop count
+    tdly *= 12;
+    // Wait until loop completes
+    while(tdly--);
 }
 void delay_ms(unsigned int tdly)
 {
-tdly*=12000;
-while(tdly--);
+    // Convert milliseconds into loop count
+    tdly *= 12000;
+    // Wait until loop completes
+    while(tdly--);
 }
 void delay_s(unsigned int tdly)
 {
-tdly*=12000000;
-while(tdly--);
+    // Convert seconds into loop count
+    tdly *= 12000000;
+    // Wait until loop completes
+    while(tdly--);
 }
