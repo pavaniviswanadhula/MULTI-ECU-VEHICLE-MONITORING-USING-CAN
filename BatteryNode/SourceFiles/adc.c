@@ -2,18 +2,18 @@
 #include "types.h"
 #include "delay.h"
 
-#define FOSC 12000000          // Oscillator frequency
-#define CCLK (FOSC*5)          // CPU clock frequency
+#define FOSC 12000000            // Oscillator frequency
+#define CCLK (FOSC*5)       // CPU clock frequency
 #define PCLK (CCLK/4)          // Peripheral clock frequency
-#define ADCCLK 3000000         // ADC clock frequency
-#define CLKDIV ((PCLK/ADCCLK)-1) // ADC clock divider value
+#define ADCCLK 3000000             // ADC clock frequency
+#define CLKDIV ((PCLK/ADCCLK)-1)      // ADC clock divider value
 // ADCR Register bit positions
-#define CLKDIV_BITS 8          // Clock divider starts from bit 8
-#define PDN_BIT 21             // Power Down bit
+#define CLKDIV_BITS 8    // Clock divider starts from bit 8
+#define PDN_BIT 21         // Power Down bit
 #define ADC_CONV_START_BIT 24  // Start conversion bit
 // ADDR Register bit positions
 #define DIGITAL_DATA_BITS 6    // ADC result starts from bit 6
-#define DONE_BIT 31            // Conversion complete bit
+#define DONE_BIT 31     // Conversion complete bit
 // ADC channel pin selections
 #define AIN0_PIN_0_27 0x00400000
 #define AIN1_PIN_0_28 0x01000000
